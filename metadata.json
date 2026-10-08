@@ -1,0 +1,6 @@
+{
+  "name": "Royal Rama Luxury Hotel & Room Services",
+  "description": "Experience five-star luxury suites, bespoke 24/7 in-room dining, and palatial hospitality at Royal Rama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
